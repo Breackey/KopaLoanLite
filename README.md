@@ -1,2 +1,2 @@
 # KopaLoanLite
-this is a loan app developing it in android
+This is android loan-lending mobile application being developed collaboratively in Kentrade. 
