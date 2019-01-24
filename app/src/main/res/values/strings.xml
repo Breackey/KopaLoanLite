@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Kopa Loan</string>
+    <string name="exitButton">Exit</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="phone">Phone:</string>
+    <string name="password">Password:</string>
+    <string name="loantext">Borrowing Money Has Never Been Easier!</string>
+    <string name="loantext2">Not yet a Memeber?</string>
+    <string name="sign_in">Sign In</string>
+
 </resources>
