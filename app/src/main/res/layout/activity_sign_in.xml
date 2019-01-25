@@ -164,4 +164,14 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button" />
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autoLink="web"
+        android:clickable="true"
+        android:text="Forgot Password"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="566dp" />
+
 </android.support.constraint.ConstraintLayout>
